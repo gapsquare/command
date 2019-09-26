@@ -1,7 +1,7 @@
 package command
 
 import (
-	"github.com/isuruceanu/goevent"
+	"github.com/gapsquare/goevent"
 )
 
 // Configuration configuration option func

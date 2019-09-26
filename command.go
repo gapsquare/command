@@ -3,7 +3,7 @@ package command
 import (
 	"context"
 
-	"github.com/isuruceanu/goevent"
+	"github.com/gapsquare/goevent"
 )
 
 // Command base interface for a command

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/isuruceanu/goevent"
+	"github.com/gapsquare/goevent"
 )
 
 // Executer an interface that is responsable to execute a command

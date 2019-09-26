@@ -7,7 +7,7 @@ import (
 
 	"github.com/gapsquare/command"
 
-	"github.com/isuruceanu/goevent"
+	"github.com/gapsquare/goevent"
 )
 
 func init() {
